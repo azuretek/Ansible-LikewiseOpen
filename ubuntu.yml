@@ -1,6 +1,0 @@
----
-
-# file: ubuntu.yml
- - hosts: all
-   roles:
-       - pbis
